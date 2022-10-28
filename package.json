@@ -1,0 +1,19 @@
+{
+  "name": "react-esbuild",
+  "version": "1.0.0",
+  "description": "React application setup with esbuild.",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "author": "dhruvang gajjar",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "esbuild": "^0.15.12",
+    "live-server": "^1.1.0"
+  }
+}
